@@ -8,6 +8,7 @@ public class Task1 {
         Once day is 6 print "I do not need a day off anymore"
 
         */
+
     }
 }
 
