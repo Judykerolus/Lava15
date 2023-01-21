@@ -1,8 +1,8 @@
 package class11;
 
-public class PhoneTester {
+public class PhoneTesterHomework {
     public static void main(String[] args) {
-        Phone iPhone=new Phone();
+        PhoneHomework iPhone=new PhoneHomework();
         iPhone.name="iphone13";
         iPhone.color="Purple";
         iPhone.make="Apple";
@@ -12,7 +12,7 @@ public class PhoneTester {
 
         System.out.println("*********");
 
-        Phone Pixel=new Phone();
+        PhoneHomework Pixel=new PhoneHomework();
         Pixel.name="Pixel 7";
         Pixel.color="Black";
         Pixel.make="Google";
@@ -22,7 +22,7 @@ public class PhoneTester {
 
         System.out.println("*********");
 
-        Phone Samsung =new Phone();
+        PhoneHomework Samsung =new PhoneHomework();
         Samsung.name="Samsung Galaxy S22";
         Samsung.color="Black";
         Samsung.make="Samsung";

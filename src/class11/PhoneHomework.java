@@ -1,6 +1,6 @@
 package class11;
 
-public class Phone {
+public class PhoneHomework {
     String name;
     String color;
     String make;
