@@ -29,5 +29,21 @@ public class Task2 {
             }
         }
         System.out.println(Arrays.toString(countries));
+
+        System.out.println("************");
+
+        System.out.println("Please enter 4 countries");
+        String[] country=new String[4];
+        String[] capital=new String[4];
+        for (int i = 0; i < country.length; i++) {
+            for (int j = 0; j < capital.length; j++) {
+                country[i]=input.next();
+                capital[j]=input.next();
+                System.out.println("The capital of "+country[i]+" is "+capital[j]);
+
+            }
+        }
+
+
     }
 }

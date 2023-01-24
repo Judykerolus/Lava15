@@ -18,7 +18,7 @@ public class Task1 {
         for (int i = 0; i < numbers.length; i++) {
             sum = sum + numbers[i];
         }
-            System.out.println(sum);
+            System.out.println("The total of numbers is"+sum);
 
         }
     }

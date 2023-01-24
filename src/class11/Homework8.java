@@ -5,7 +5,9 @@ public class Homework8 {
         String[][] countries = {{"USA", "Canada", "Mexico"},
                 {"Brazil", "Argentina", "Colombia",},
                 {"Germany", "France", "Italy"},
-                {"China", "India", "Japan"}};
+                {"China", "India", "Japan"},
+                {"Egypt","Nigeria","South Africa","Ethiopia"}
+        };
         int sum = 0;
         for (int i = 0; i < countries.length; i++) {
             for (int j = 0; j < countries[i].length; j++) {
