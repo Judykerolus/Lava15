@@ -4,7 +4,7 @@ public class Task4 {
     String hello (String country){
         switch (country) {
             case "USA":
-                return "Hello";
+                return "Hello";// break is not needed when we use the return keyword
             case "Mexico":
                 return "Hola";
             case "Egypt":

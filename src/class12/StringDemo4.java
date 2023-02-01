@@ -7,7 +7,7 @@ public class StringDemo4 {
         boolean isEmpty = str.isEmpty();
         System.out.println(isEmpty);
 
-        String str2=" ";
+        String str2="";
         boolean isEmpty2= str2.isEmpty();
         System.out.println(isEmpty2);
 
